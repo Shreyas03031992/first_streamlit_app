@@ -1,5 +1,5 @@
 # requirements.txt
-import snowflake.connector
 snowflake-connector-python
+import snowflake.connector
 
 
